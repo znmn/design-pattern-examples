@@ -1,0 +1,31 @@
+[
+    {
+        "order_id": 1,
+        "customer_id": 101,
+        "product_ids": [
+            1,
+            2
+        ],
+        "status": "created"
+    },
+    {
+        "order_id": 2,
+        "customer_id": 101,
+        "product_ids": [
+            1,
+            2
+        ],
+        "total_amount": 55000.0,
+        "status": "canceled"
+    },
+    {
+        "order_id": 3,
+        "customer_id": 101,
+        "product_ids": [
+            1,
+            2
+        ],
+        "total_amount": 55000.0,
+        "status": "canceled"
+    }
+]

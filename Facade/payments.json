@@ -1,0 +1,20 @@
+[
+    {
+        "payment_id": 1,
+        "order_id": 1,
+        "amount": 55000,
+        "status": "processed"
+    },
+    {
+        "payment_id": 2,
+        "order_id": 2,
+        "amount": 55000.0,
+        "status": "processed"
+    },
+    {
+        "payment_id": 3,
+        "order_id": 3,
+        "amount": 55000.0,
+        "status": "processed"
+    }
+]
